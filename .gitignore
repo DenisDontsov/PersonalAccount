@@ -1,0 +1,12 @@
+# Временные файлы платформ и выгрузок
+ConfigDumpInfo.xml
+DumpFilesIndex.txt
+*.bak
+*.~*
+*.tmp
+
+# Логи и дампы
+*.log
+*.lst
+hs_err_pid*
+dumps/
