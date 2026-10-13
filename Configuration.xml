@@ -113,6 +113,14 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Финансы</Subsystem>
+			<Catalog>СтатьиДоходов</Catalog>
+			<Catalog>СтатьиРасходов</Catalog>
+			<Catalog>Счета</Catalog>
+			<Document>ПриходДенег</Document>
+			<Document>РасходДенег</Document>
+			<Report>ФинансовыйОтчет</Report>
+			<AccumulationRegister>Финансы</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
